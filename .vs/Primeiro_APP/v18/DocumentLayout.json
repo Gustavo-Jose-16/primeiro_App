@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\professor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\professor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\professor\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\professor\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\professor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\professor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Primeiro_APP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T23:36:33.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Resultado.cshtml",
               "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Resultado.cshtml",
               "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Professor\\Resultado.cshtml",
@@ -71,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Teste.cshtml",
               "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Teste.cshtml",
               "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Professor\\Teste.cshtml",
@@ -84,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
@@ -97,28 +118,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProfessorController.cs",
               "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
               "RelativeDocumentMoniker": "Primeiro_APP\\Controllers\\ProfessorController.cs",
               "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
               "RelativeToolTip": "Primeiro_APP\\Controllers\\ProfessorController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T20:12:21.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AlunoController.cs",
               "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "Primeiro_APP\\Controllers\\AlunoController.cs",
               "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
               "RelativeToolTip": "Primeiro_APP\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T23:03:47.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Professor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Index.cshtml",
+              "RelativeToolTip": "Primeiro_APP\\Views\\Professor\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T23:10:23.011Z",
               "EditorCaption": ""
             }
           ]
