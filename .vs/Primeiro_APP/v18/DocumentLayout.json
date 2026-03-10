@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\",
+  "WorkspaceRootPath": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\downloads\\primeiro_app\\primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\downloads\\primeiro_app\\primeiro_app\\views\\aluno\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\aluno\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\downloads\\primeiro_app\\primeiro_app\\views\\aluno\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\aluno\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\downloads\\primeiro_app\\primeiro_app\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\downloads\\primeiro_app\\primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,61 +54,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Resultado.cshtml",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Aluno\\Resultado.cshtml",
-              "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Aluno\\Resultado.cshtml",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Aluno\\Resultado.cshtml",
-              "RelativeToolTip": "Primeiro_APP\\Views\\Aluno\\Resultado.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T20:26:24.4Z"
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Program.cs",
+              "RelativeDocumentMoniker": "Primeiro_APP\\Program.cs",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Program.cs",
+              "RelativeToolTip": "Primeiro_APP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:28:44.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Teste.cshtml",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Aluno\\Teste.cshtml",
-              "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Aluno\\Teste.cshtml",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Aluno\\Teste.cshtml",
-              "RelativeToolTip": "Primeiro_APP\\Views\\Aluno\\Teste.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T19:35:38.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T23:03:47.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Aluno\\Index.cshtml",
-              "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Aluno\\Index.cshtml",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Views\\Aluno\\Index.cshtml",
-              "RelativeToolTip": "Primeiro_APP\\Views\\Aluno\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T23:03:47.801Z"
+              "WhenOpened": "2026-03-10T20:26:31.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "Primeiro_APP\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "Primeiro_APP\\Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:12:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Controllers\\AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "Primeiro_APP\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Downloads\\Primeiro_APP\\Primeiro_APP\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
               "RelativeToolTip": "Primeiro_APP\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T23:03:47.803Z",
               "EditorCaption": ""
