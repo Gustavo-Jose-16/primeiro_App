@@ -12,8 +12,8 @@ namespace Primeiro_APP.Controllers
             ViewBag.nota = "Aluno nota 10";
             ViewData["Escola"] = "Escola Pedro Fonseca";
 
-            nome = "Nilson";
-            sobrenome = "Alcides";      
+            nome = "Gustavo";
+            sobrenome = "José";      
 
             return View();
         }

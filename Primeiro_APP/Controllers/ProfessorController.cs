@@ -9,7 +9,7 @@ namespace Primeiro_APP.Controllers
         
         public IActionResult Index()
         {
-            ViewBag.nota = "Professor nota 10";
+            ViewBag.nota = "Professor de desenvolvimento de sistema";
             ViewData["Escola"] = "Escola Pedro Fonseca";
 
             nome = "Nilson";
@@ -26,7 +26,7 @@ namespace Primeiro_APP.Controllers
         public IActionResult Resultado()
         {
             if (TempData["MSG_EX"] != null)
-                ViewBag.Exemplo = "Professor do 3°B";
+                ViewBag.Exemplo = "Professor do Pedro Fonseca";
             return View();
         }
         public IActionResult Redirecionamemto()

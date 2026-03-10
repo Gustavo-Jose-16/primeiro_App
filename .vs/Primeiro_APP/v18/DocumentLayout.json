@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\",
+  "WorkspaceRootPath": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\professor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\professor\\resultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\professor\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\professor\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\primeiro_app\\primeiro_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|c:\\users\\gustavojoseandradeda\\desktop\\pastas\\primeiro_app\\primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18B65B7-9CDB-40EE-BBE2-0371A5474D53}|Primeiro_APP\\Primeiro_APP.csproj|solutionrelative:primeiro_app\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,24 +58,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Program.cs",
-              "RelativeDocumentMoniker": "Primeiro_APP\\Program.cs",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Program.cs",
-              "RelativeToolTip": "Primeiro_APP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T20:28:44.508Z",
+              "DocumentIndex": 1,
+              "Title": "Resultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Resultado.cshtml",
+              "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Professor\\Resultado.cshtml",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Resultado.cshtml",
+              "RelativeToolTip": "Primeiro_APP\\Views\\Professor\\Resultado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T21:05:04.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Teste.cshtml",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Teste.cshtml",
+              "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Professor\\Teste.cshtml",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Professor\\Teste.cshtml",
+              "RelativeToolTip": "Primeiro_APP\\Views\\Professor\\Teste.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T21:03:51.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Primeiro_APP\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -82,24 +99,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProfessorController.cs",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
               "RelativeDocumentMoniker": "Primeiro_APP\\Controllers\\ProfessorController.cs",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\ProfessorController.cs",
               "RelativeToolTip": "Primeiro_APP\\Controllers\\ProfessorController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T20:12:21.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "Primeiro_APP\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\GUSTAVOJOSEANDRADEDA\\Desktop\\Pastas\\primeiro_App\\Primeiro_APP\\Controllers\\AlunoController.cs",
               "RelativeToolTip": "Primeiro_APP\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T23:03:47.803Z",
               "EditorCaption": ""
